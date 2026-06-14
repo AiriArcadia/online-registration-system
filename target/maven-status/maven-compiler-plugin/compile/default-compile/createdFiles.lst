@@ -1,0 +1,16 @@
+com\example\registration\model\RegisterRequest.class
+com\example\registration\controller\AuthController.class
+com\example\registration\controller\RegisterController.class
+com\example\registration\model\LoginRequest.class
+com\example\registration\repository\RegistrationRepository.class
+com\example\registration\model\ApiResponse.class
+com\example\registration\service\ActivityService.class
+com\example\registration\repository\UserRepository.class
+com\example\registration\service\RegistrationService.class
+com\example\registration\model\ActivityCreateRequest.class
+com\example\registration\model\ActivityDto.class
+com\example\registration\repository\ActivityRepository.class
+com\example\registration\controller\ActivityController.class
+com\example\registration\RegistrationApplication.class
+com\example\registration\service\AuthService.class
+com\example\registration\controller\GlobalExceptionHandler.class
